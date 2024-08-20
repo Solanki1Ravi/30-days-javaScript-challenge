@@ -2,7 +2,7 @@
 
 //task1 ==> check whether number positive negative or zero
 
-/*
+
 let a = -22;
 
 if(a==0){
@@ -20,11 +20,11 @@ if(a==0){
     }
 }
 
-*/
+
 
 //task2 ==> Eligible for vote or not (age>=18)
 
-/*
+
 let age = -90
 
 if(age>=18){
@@ -35,12 +35,12 @@ else{
     console.log("You're not eligible to vote");
     
 }
-*/
+
 
 // Nested if else statement
 
 //task3 ==> largest of three number
-/*
+
 let num1 = 900
 let num2 = 9
 let num3 = 100
@@ -58,13 +58,13 @@ else{
     
 }
 
-*/
+
 
 //Switch Case
 
 //task4 ==> Determine day of the week based on number (1-7)
 
-/*
+
 let day = 1;
 
 switch (day) {
@@ -94,11 +94,11 @@ switch (day) {
         break;
 }
 
-*/
+
 
 //task5 ==> assign a grade (A,B,C,D) based on a score
 
-/*
+
 let score = 92;
 
 switch (true) {
@@ -121,18 +121,17 @@ switch (true) {
     console.log("Enter valid marks");
     break;
 }
-*/
+
 
 //Conditionals(ternary operator)
 
 //task6 ==> odd even using ternary operator
 
-let a = 69;
+let a1 = 69;
 
-// console.log((a%2==0)?"Even":"Odd");
+console.log((a1%2==0)?"Even":"Odd");
 
 //Combining Conditions
-
 //task7 ==> a year is leap year or not
 
 let year = 2049;
